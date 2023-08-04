@@ -7,7 +7,7 @@ public class CalcPrac {
 		Scanner sc = new Scanner(System.in);
 		
 		Game G1 = new Game();
-		G1.startGame(sc);
+		G1.startGame(sc); 
 		
 	}
 }

@@ -7,7 +7,7 @@ public class Game {
 	
 	
 	// Method to get Difficulty
-	public static int getDifficulty() {
+	public static int getDifficulty()  {
 		int difficulty = -1; 
 		while (difficulty < 0 || difficulty > 2) {
 	        try {

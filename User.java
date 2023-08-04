@@ -4,7 +4,7 @@ class User {
 	String name;
     int age;
     
-    public String getName() {
+    public String getName()  {
     	return name;
     }
     
